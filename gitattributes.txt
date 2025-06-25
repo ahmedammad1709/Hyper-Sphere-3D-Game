@@ -1,0 +1,4 @@
+# Ignore shaders and related files from GitHub language stats
+*.shader linguist-vendored
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
